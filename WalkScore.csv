@@ -1,0 +1,31 @@
+﻿State,City,City Population,Avg. Walk Score
+CA,Los Angeles,3792621,69
+CA,San Diego,1307402,53
+CA,San Jose,945942,51
+CA,San Francisco,805235,89
+CA,Fresno,494665,47
+CA,Sacramento,466488,49
+CA,Long Beach,462257,73
+CA,Oakland ,390724,75
+CA,Bakersfield,347483,37
+CA,Anaheim,336265,56
+NE,Omaha,408958,48
+NE,Lincoln,258379,44
+NE,Bellevue,50137,33
+NE,Grand Island,48520,39
+NE,Kearney,30787,42
+NE,Fremont,26397,46
+NE,Hastings,24907,38
+NE,Norfolk,24210,40
+NE,Columbus,22111,42
+NE,North Platte,24733,40
+WA,Seattle,608660,74
+WA,Spokane,208916,49
+WA,Tacoma,198397,54
+WA,Vancover,161791,41
+WA,Bellevue,122363,41
+WA,Kent,92411,40
+WA,Everett,103019,49
+WA,Renton,90927,40
+WA,Federal Way ,89306,38
+WA,Yakima,91067,49
