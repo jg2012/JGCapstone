@@ -1,0 +1,102 @@
+<mxfile host="Electron" modified="2023-06-08T20:44:16.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="Xk1mL221j5JSty7tOdMx" version="21.3.7" type="device">
+  <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
+    <mxGraphModel dx="903" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2b4e8129b02d487f-1" value="J&#39;s Real Estate Development&amp;nbsp;" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="70" width="680" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-2" value="Customer" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="20" width="680" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-5" target="2b4e8129b02d487f-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-5" value="Visti Website" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="40" y="23" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-6" value="Fills Out Site Info Card" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="280" y="49.49999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-7" value="Lead Created" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="520" y="49.49999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="IPmSWKFeBwr6xOG5gSog-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-6" target="2b4e8129b02d487f-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="290" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-3" value="Sales" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="170" width="680" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-12" value="Start Survey Search" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-3" vertex="1">
+          <mxGeometry x="120" y="49.99999999999996" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="IPmSWKFeBwr6xOG5gSog-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="68.17000000000002" as="sourcePoint" />
+            <mxPoint x="270" y="68.17000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPmSWKFeBwr6xOG5gSog-4" value="Team Reviews Possible Development Sites" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="270" y="38.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPmSWKFeBwr6xOG5gSog-5" value="Proposal Created" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="510" y="28.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IPmSWKFeBwr6xOG5gSog-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.054;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-3" target="IPmSWKFeBwr6xOG5gSog-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="68.34000000000003" as="sourcePoint" />
+            <mxPoint x="500" y="68" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="68.17000000000002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-4" value="Management" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="320" width="680" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="2b4e8129b02d487f-4" source="2b4e8129b02d487f-14" target="2b4e8129b02d487f-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-14" value="Reviews Proposal" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
+          <mxGeometry x="170" y="61.75000000000003" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="2b4e8129b02d487f-4" source="2b4e8129b02d487f-15" edge="1">
+          <mxGeometry x="-0.5006" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-15" value="Approval Proccess" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
+          <mxGeometry x="330" y="60.5" width="60" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-17" value="Development Plan Set" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
+          <mxGeometry x="520" y="56.5" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="IPmSWKFeBwr6xOG5gSog-8" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="-0.5006" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="360" y="60.5" as="sourcePoint" />
+            <mxPoint x="360" y="-50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPmSWKFeBwr6xOG5gSog-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="2b4e8129b02d487f-7" target="IPmSWKFeBwr6xOG5gSog-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="120" as="sourcePoint" />
+            <mxPoint x="550" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPmSWKFeBwr6xOG5gSog-10" value="Leads Sent with Proposal" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IPmSWKFeBwr6xOG5gSog-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
